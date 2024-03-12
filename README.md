@@ -15,3 +15,6 @@ Closing a window/tab ends the session and clears sessionStorage objects.
 
 Cookie: The term “cookie” refers to just the textual information about a website. In order to recognize you and show you results according to your preferences, this website saves some information in your local system when you visit a particular website.
 Since a server receives many requests every second, storing every user’s information on a server doesn’t seem logical and obvious. The same information may not be needed again if you don’t return. Therefore, a cookie is sent and stored on your local machine to uniquely identify you. You will receive a response from the same server the next time you hit it since it recognizes you.
+
+
+Vectorizing your solution makes it run 300 times faster than normal code (ML deep learning), the RULE TO REMEMBER is whenever possible, avoid using explicit for loops. Whenever tempted to use for loop, just go and check if theres a bulit in thing in numpy to replace it. 
